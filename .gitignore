@@ -70,3 +70,6 @@ uselib_track
 darknet
 kmeansiou
 vcpkg/
+bad.list
+train_6138407140.log
+train_8125761643.log

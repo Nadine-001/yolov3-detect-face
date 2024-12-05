@@ -1,0 +1,9 @@
+/home/vanessad/project/test/darknet/dataset/1476551539/val/cropped_0_063868584032.210000000.jpeg
+/home/vanessad/project/test/darknet/dataset/1476551539/val/cropped_0_063868789671.265000000.jpeg
+/home/vanessad/project/test/darknet/dataset/1476551539/val/cropped_0_063866050565.423000000.jpeg
+/home/vanessad/project/test/darknet/dataset/1476551539/val/cropped_0_063868152680.210000000.jpeg
+/home/vanessad/project/test/darknet/dataset/1476551539/val/cropped_0_063867842411.196000000.jpeg
+/home/vanessad/project/test/darknet/dataset/1476551539/val/cropped_0_063868466327.910000000.jpeg
+/home/vanessad/project/test/darknet/dataset/1476551539/val/cropped_0_063866910298.159000000.jpeg
+/home/vanessad/project/test/darknet/dataset/1476551539/val/cropped_1_063867029192.726000000.jpeg
+/home/vanessad/project/test/darknet/dataset/1476551539/val/cropped_0_063867343905.152000000.jpeg

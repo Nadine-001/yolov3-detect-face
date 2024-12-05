@@ -1,7 +1,7 @@
-GPU=0
-CUDNN=0
-CUDNN_HALF=0
-OPENCV=0
+GPU=1
+CUDNN=1
+CUDNN_HALF=1
+OPENCV=1
 AVX=0
 OPENMP=0
 LIBSO=0
@@ -45,7 +45,7 @@ OS := $(shell uname)
 # ARCH= -gencode arch=compute_61,code=[sm_61,compute_61]
 
 # For Jetson TX2, Jetson Nano TX2 or Drive-PX2 uncomment:
-# ARCH= -gencode arch=compute_62,code=[sm_62,compute_62]
+ARCH= -gencode arch=compute_62,code=[sm_62,compute_62]
 
 # Tesla V100
 # ARCH= -gencode arch=compute_70,code=[sm_70,compute_70]

@@ -1,0 +1,7 @@
+/home/vanessad/project/test/darknet/dataset/5902743419/val/cropped_0_063865789741.449000000.jpeg
+/home/vanessad/project/test/darknet/dataset/5902743419/val/cropped_0_063866478585.304000000.jpeg
+/home/vanessad/project/test/darknet/dataset/5902743419/val/cropped_0_063865525057.057000000.jpeg
+/home/vanessad/project/test/darknet/dataset/5902743419/val/cropped_0_063867344854.830000000.jpeg
+/home/vanessad/project/test/darknet/dataset/5902743419/val/cropped_0_063866825403.461000000.jpeg
+/home/vanessad/project/test/darknet/dataset/5902743419/val/cropped_0_063868466987.509000000.jpeg
+/home/vanessad/project/test/darknet/dataset/5902743419/val/cropped_0_063868034604.324000000.jpeg

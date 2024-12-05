@@ -1,0 +1,5 @@
+classes = 9
+train = /home/vanessad/project/test/darknet/dataset/train_8125761643.txt
+valid = /home/vanessad/project/test/darknet/dataset/val_8125761643.txt
+names = /home/vanessad/project/test/darknet/dataset/class.names
+backup = /home/vanessad/project/test/darknet/dataset/backup
